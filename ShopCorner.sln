@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCorner.DB", "ShopCorner\ShopCorner.DB.csproj", "{472369D5-17A9-4B73-88BE-AA760B7C4DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCorner.API", "ShopCorner.API\ShopCorner.API.csproj", "{4F3EA767-6063-484D-A555-3025FE503FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCorner.Testing", "ShopCorner.Testing\ShopCorner.Testing.csproj", "{7925126C-9B50-418B-A006-9BD5A01FA3A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472369D5-17A9-4B73-88BE-AA760B7C4DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472369D5-17A9-4B73-88BE-AA760B7C4DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472369D5-17A9-4B73-88BE-AA760B7C4DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472369D5-17A9-4B73-88BE-AA760B7C4DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3EA767-6063-484D-A555-3025FE503FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3EA767-6063-484D-A555-3025FE503FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3EA767-6063-484D-A555-3025FE503FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3EA767-6063-484D-A555-3025FE503FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7925126C-9B50-418B-A006-9BD5A01FA3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7925126C-9B50-418B-A006-9BD5A01FA3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7925126C-9B50-418B-A006-9BD5A01FA3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7925126C-9B50-418B-A006-9BD5A01FA3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
