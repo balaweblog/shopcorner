@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ShopCorner.Testing
 {
     public class Response
-    {
+    { 
         public string Message { get; set; }
     }
 }
