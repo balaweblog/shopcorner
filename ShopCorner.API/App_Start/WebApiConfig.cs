@@ -16,6 +16,7 @@ namespace ShopCorner.API
                 defaults: new { id = RouteParameter.Optional }
             );
             config.Filters.Add(new ValidateModelStateFilter());
+            config.Filters.Add(new LoggingFilterAttribute());
             FluentValidationModelValidatorProvider.Configure(config);
         }
     }
