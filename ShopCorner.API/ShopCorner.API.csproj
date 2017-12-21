@@ -154,7 +154,7 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ShopCorner\ShopCorner.DB.csproj">
+    <ProjectReference Include="..\ShopCorner.DB\ShopCorner.DB.csproj">
       <Project>{472369d5-17a9-4b73-88be-aa760b7c4da0}</Project>
       <Name>ShopCorner.DB</Name>
     </ProjectReference>
