@@ -42,4 +42,3 @@ C:\Baseline\Documents\shopcorner\ShopCorner\bin\Debug\ja\Npgsql.resources.dll
 C:\Baseline\Documents\shopcorner\ShopCorner\bin\Debug\zh-CN\Npgsql.resources.dll
 C:\Baseline\Documents\shopcorner\ShopCorner\obj\Debug\ShopCorner.DB.dll
 C:\Baseline\Documents\shopcorner\ShopCorner\obj\Debug\ShopCorner.DB.pdb
-C:\Baseline\Documents\shopcorner\ShopCorner\obj\Debug\ShopCorner.DB.csprojResolveAssemblyReference.cache
