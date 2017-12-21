@@ -77,6 +77,7 @@ C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\ShopCorner.API.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\System.Net.Http.Formatting.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\System.Web.Http.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\FluentValidation.dll
+C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\NLog.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\ShopCorner.DB.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\FluentValidation.WebApi.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\System.Web.Http.WebHost.dll
@@ -92,6 +93,7 @@ C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\System.Net.Http.Fo
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\System.Web.Http.xml
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\FluentValidation.xml
+C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\NLog.xml
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\ShopCorner.DB.pdb
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\FluentValidation.WebApi.xml
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\System.Web.Http.WebHost.xml
@@ -104,5 +106,3 @@ C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\zh-CN\Npgsql.resou
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\obj\Debug\ShopCorner.Testing.csprojResolveAssemblyReference.cache
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\obj\Debug\ShopCorner.Testing.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.Testing\obj\Debug\ShopCorner.Testing.pdb
-C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\NLog.dll
-C:\Baseline\Documents\shopcorner\ShopCorner.Testing\bin\Debug\NLog.xml

@@ -49,9 +49,6 @@ C:\Baseline\Documents\shopcorner\ShopCorner\ShopCorner.API\bin\zh-CN\Npgsql.reso
 C:\Baseline\Documents\shopcorner\ShopCorner\ShopCorner.API\obj\Debug\ShopCorner.API.csprojResolveAssemblyReference.cache
 C:\Baseline\Documents\shopcorner\ShopCorner\ShopCorner.API\obj\Debug\ShopCorner.API.dll
 C:\Baseline\Documents\shopcorner\ShopCorner\ShopCorner.API\obj\Debug\ShopCorner.API.pdb
-C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Debug\ShopCorner.API.csprojResolveAssemblyReference.cache
-C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Debug\ShopCorner.API.dll
-C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Debug\ShopCorner.API.pdb
 C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\roslyn\csc.exe
 C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -102,3 +99,6 @@ C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\fi\Npgsql.resources.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\fr\Npgsql.resources.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\ja\Npgsql.resources.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\zh-CN\Npgsql.resources.dll
+C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Debug\ShopCorner.API.csprojResolveAssemblyReference.cache
+C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Debug\ShopCorner.API.dll
+C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Debug\ShopCorner.API.pdb
