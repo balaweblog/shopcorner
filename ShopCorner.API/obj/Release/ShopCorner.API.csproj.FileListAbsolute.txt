@@ -81,3 +81,6 @@ C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\zh-CN\Npgsql.resources.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Release\ShopCorner.API.csprojResolveAssemblyReference.cache
 C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Release\ShopCorner.API.dll
 C:\Baseline\Documents\shopcorner\ShopCorner.API\obj\Release\ShopCorner.API.pdb
+C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\Web.config
+C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\Web.Debug.config
+C:\Baseline\Documents\shopcorner\ShopCorner.API\bin\Web.Release.config
